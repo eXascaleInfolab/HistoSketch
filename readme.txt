@@ -1,4 +1,4 @@
-This is the implementation for HistoSketch in MATLAB (see the following paper)
+This is the implementation of HistoSketch in MATLAB (see the following paper)
 
 - Yang, Dingqi, Bin Li, Laura Rettig, and Philippe Cudré-Mauroux. "HistoSketch: Fast Similarity-Preserving Sketching of Streaming Histograms with Concept Drift." In ICDM’17.
 https://exascale.info/assets/pdf/icdm2017_HistoSketch.pdf (latest version with typo corrected)
